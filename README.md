@@ -23,7 +23,7 @@ Here is a Tableau dashboard that summarizes key findings. https://public.tableau
 2. Promote the more successful items more by introducing them into combos. For example the cheeseburger is the most popular item and generates significant revenue. Pair this with french fries.
 3. Expand the most successful categories, which were Asian and Italian. Offer new variations for best sellers where applicable.
 4. Items with lower revenue or fewer orders, such as chicken tacos, the team should analyze how it can be improved, whether it's in quality or presentation. It may be necessary to get customer feedback.
-5. If there's no gain to be made from these adjustments, it may be worthwhile introducting new alternative dishes to repalace less popular items.
+5. If there's no gain to be made from these adjustments, it may be worthwhile introducting new alternative dishes to replace less popular items.
 
 ## Conclusion
 The insights gained from this analysis will help the restaurant in refining its menu, setting optimal prices, and enhancing customer satisfaction by better understanding their preferences. 
