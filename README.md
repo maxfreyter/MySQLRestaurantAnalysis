@@ -1,10 +1,10 @@
 ## Project Overview
 
-In this project, I analyze the menu items and order details from a restaurant database. The goal is to uncover insights that can help improve menu offerings, pricing strategies, and understand customer ordering behavior.
+In this project, I analyze the menu items and order details from a restaurant database. The goal is to uncover insights that can help improve menu offerings, pricing strategies, and understand customer ordering behavior. This will be done using MySQL and Tableau. 
 
 ## Business Task
 
-The primary business task is to evaluate the restaurant's menu and order patterns to optimize both the menu and customer satisfaction. Specifically, we aim to:
+The primary business task is to evaluate the restaurant's menu and order patterns to optimize both the menu and customer satisfaction. Specifically, I aim to do the following:
 
 1. **Analyze Menu Pricing:** Determine the range of prices for menu items, identify the most and least expensive items, and analyze pricing trends within different categories.
 
@@ -14,5 +14,17 @@ The primary business task is to evaluate the restaurant's menu and order pattern
 
 4. **Customer Preferences:** Understand customer preferences by examining the popularity of different menu items and categories, especially among top-spending orders.
 
-The insights gained from this analysis will help the restaurant in refining its menu, setting optimal prices, and enhancing customer satisfaction by better understanding their preferences.
+## Visualizations
+Here is a Tableau dashboard that summarizes key findings. https://public.tableau.com/app/profile/max.freyter/viz/restaurantviz/Dashboard1
+(Note: The 'average' line that appears when you click on the item represents the revenue and total amount ordered in each graph respectively.)
+
+## Recommendations
+1. Make an extra effort to ensure the most popular items are always stocked.
+2. Promote the more successful items more by introducing them into combos. For example the cheeseburger is the most popular item and generates significant revenue. Pair this with french fries.
+3. Expand the most successful categories, which were Asian and Italian. Offer new variations for best sellers where applicable.
+4. Items with lower revenue or fewer orders, such as chicken tacos, the team should analyze how it can be improved, whether it's in quality or presentation. It may be necessary to get customer feedback.
+5. If there's no gain to be made from these adjustments, it may be worthwhile introducting new alternative dishes to repalace less popular items.
+
+## Conclusion
+The insights gained from this analysis will help the restaurant in refining its menu, setting optimal prices, and enhancing customer satisfaction by better understanding their preferences. 
 
